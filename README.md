@@ -9,7 +9,7 @@ i build apps that make everyday life a little calmer.
 currently exploring: AI agents, health tech, creative coding
 
 ```
-☕ fueled by supplements, home-cooked meals, and too many AI tools
+☕ fueled by huberman podcasts, home-cooked meals, and too many AI tools
 ```
 
 <p>
