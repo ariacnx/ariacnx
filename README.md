@@ -1,16 +1,18 @@
-## Hi there 👋
+### hey, i'm aria ✿
 
-<!--
-**ariacnx/ariacnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i build apps that make everyday life a little calmer.
 
-Here are some ideas to get you started:
+🔬 [**omnihealth**](https://omnicareai.github.io/omnicare2.0) — cancer screening quiz based on real clinical guidelines  
+🍳 [**forkcasts**](https://github.com/ariacnx/clean-eats) — home cooking app for saving & sharing recipes  
+🌲 [**grove**](https://ariacnx.github.io/aria-web/grove) — guided meditation that listens back  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently exploring: AI agents, health tech, creative coding
+
+```
+☕ fueled by supplements, home-cooked meals, and too many AI tools
+```
+
+<p>
+  <a href="https://ariacnx.github.io/aria-web">portfolio</a> ·
+  <a href="mailto:ariacnx@gmail.com">email</a>
+</p>
