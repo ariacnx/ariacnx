@@ -6,11 +6,11 @@ by day i work at google. by night i'm usually building something new, going to h
 
 ---
 
-#### things i've built
+#### things i'm currenlty working on:
 
-🔬 [**omnihealth**](https://omnicareai.github.io/omnicare2.0) — cancer screening quiz based on real clinical guidelines. because health info shouldn't require a medical degree to understand.
+🔬 [**pebblehealth**](https://pebblehealth.ai/landing) — cancer screening quiz based on real clinical guidelines. because health info shouldn't require a medical degree to understand.
 
-🍳 [**forkcasts**](https://github.com/ariacnx/clean-eats) — home cooking app for saving & sharing recipes. [on the App Store](https://apps.apple.com/app/id6759228977). built it because i kept losing recipes in screenshots and bookmarks.
+🍳 [**forkcasts**](https://github.com/ariacnx/clean-eats) — (currently fixing some ios bug, try the web one plz) home cooking app for saving & sharing recipes. [on the App Store](https://apps.apple.com/app/id6759228977). built it because i kept losing recipes in screenshots and bookmarks.
 
 🎉 [**follow-through**](https://github.com/ariacnx/follow-through) — AI skill for post-event networking. scans your LinkedIn, drafts messages in your voice, learns from what you actually send. because the follow-up is where relationships are built.
 
