@@ -2,7 +2,7 @@
 
 i'm a software engineer who builds things that make everyday life a little calmer — from health tools to cooking apps to AI agents that handle the tedious stuff so you don't have to.
 
-by day i work at google. by night i'm usually building something new, going to hackathons, or convincing my boyfriend to be my beta tester.
+by day i work at google. by night i'm usually building something new, going to hackathons, or forcing my friends to be my beta testers.
 
 ---
 
@@ -23,7 +23,7 @@ by day i work at google. by night i'm usually building something new, going to h
 - AI agents & skills — making AI actually useful for real-life workflows
 - health tech — accessible tools, not medical jargon
 - creative coding — if it doesn't spark joy, why build it?
-- 湾区活动 — you'll find me at hackathons and builder meetups around the Bay
+- openclaw events — you'll find me at hackathons and builder meetups around the Bay
 
 ---
 
